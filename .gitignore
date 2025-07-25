@@ -1,0 +1,11 @@
+# Arquivos de Dependências
+node_modules/
+
+# Arquivos de Ambiente (MUITO IMPORTANTE)
+.env
+.env.*
+
+# Arquivos temporários e de log
+*.log
+saida_projeto.txt
+vite.config.js.timestamp-*.mjs
